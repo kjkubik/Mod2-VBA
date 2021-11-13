@@ -1,2 +1,2 @@
-# Mod2-VBA
+# Mod2-VBA - Class Activities
 VBA Class Activities
